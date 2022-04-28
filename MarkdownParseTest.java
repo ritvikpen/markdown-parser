@@ -7,7 +7,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
 
-public class MarkdownParseTest { // Create the class
+public class MarkdownParseTest { // Create the class 
 
     @Test // tell the code we're making a test here 
     public void addition() { // the test method
